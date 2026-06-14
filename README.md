@@ -248,8 +248,25 @@ Es una excelente manera de aprender.
 
 ---
 
-#### Construye tu propio `Git`
-🔜 *Próximamente traducida.*
+#### Construye tu propio `Git` ✅
+
+> **Git** almacena el historial de tu proyecto como una cadena de objetos inmutables (blobs, trees, commits) identificados por su hash SHA-1, todos dentro de la carpeta `.git`. No es magia: es un sistema de archivos direccionable por contenido. En esta sección aprenderás a construir tu propio cliente Git desde cero.
+
+**Recursos en inglés (títulos traducidos):**
+
+* [**Haskell**: _Reimplementando "git clone" en Haskell desde los fundamentos_](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
+* [**JavaScript**: _Gitlet_ (implementación de Git en JavaScript)](http://gitlet.maryrosecook.com/docs/gitlet.html)
+* [**JavaScript**: _Construye GIT — Aprende GIT_](https://kushagra.dev/blog/build-git-learn-git/)
+* [**Python**: _Lo justo de un cliente Git para crear un repo, hacer commit y publicarse en GitHub_](https://benhoyt.com/writings/pygit/)
+* [**Python**: _¡Escríbete un Git!_](https://wyag.thb.lt/)
+* [**Python**: _ugit: Aprende los internals de Git construyendo Git tú mismo_](https://www.leshenko.net/p/ugit/)
+* [**Ruby**: _Reconstruyendo Git en Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
+
+**🇪🇸 Recursos en español:**
+
+* 🇪🇸 [**Git Internals**: _Los entresijos internos de Git: Los objetos Git — Pro Git (libro oficial en español)_](https://git-scm.com/book/es/v2/Los-entresijos-internos-de-Git-Los-objetos-Git) *(fundamento esencial para implementar Git)*
+* 🇪🇸 [**Git Internals**: _DevOps: Aspectos internos de Git — arquitectura y archivos de índice — Microsoft Learn_](https://learn.microsoft.com/es-es/archive/msdn-magazine/2017/august/devops-git-internals-architecture-and-index-files)
+* 🇪🇸 [**Referencia visual**: _Una referencia visual de Git — Mark Lodato (versión en español)_](https://marklodato.github.io/visual-git-guide/index-es.html)
 
 ---
 
