@@ -164,8 +164,26 @@ Es una excelente manera de aprender.
 
 ---
 
-#### Construye tu propio `Docker`
-🔜 *Próximamente traducida.*
+#### Construye tu propio `Docker` ✅
+
+> **Docker** es una plataforma de contenedores que permite empaquetar aplicaciones con todas sus dependencias y ejecutarlas de forma aislada. Un contenedor no es una máquina virtual: usa características del kernel de Linux (namespaces, cgroups) para lograr el aislamiento. En esta sección aprenderás a implementar esos mecanismos desde cero.
+
+**Recursos en inglés (títulos traducidos):**
+
+* [**C**: _Contenedores Linux en 500 líneas de código_](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+* [**Go**: _Construye tu propio contenedor con menos de 100 líneas de Go_](https://www.infoq.com/articles/build-a-container-golang)
+* [**Go**: _Construyendo un contenedor desde cero en Go_](https://www.youtube.com/watch?v=8fi7uSYlOdc) [video]
+* [**Python**: _Un taller sobre contenedores Linux: Reconstruye Docker desde cero_](https://github.com/Fewbytes/rubber-docker)
+* [**Python**: _Una imitación de Docker escrita en 100% Python_](https://github.com/tonybaloney/mocker)
+* [**Shell**: _Docker implementado en aproximadamente 100 líneas de bash_](https://github.com/p8952/bocker)
+
+**🇪🇸 Recursos en español:**
+
+> ⚠️ No encontramos tutoriales en español sobre **implementar un motor de contenedores desde cero**. Los recursos disponibles tratan sobre *usar* Docker, que es un tema diferente.
+> **¿Conoces uno? ¡Abre un [Pull Request](../../pulls)!**
+
+* 🇪🇸 [**Docker**: _Tutorial Docker en español — basado en Docker Cookbook de O'Reilly_ (GitHub)](https://github.com/brunocascio/docker-espanol)
+* 🇪🇸 [**Docker**: _Docker desde cero — curso gratuito para programadores_ (Código en Casa)](https://codigoencasa.com/docker-desde-cero-curso-gratis-para-programadores-web/)
 
 ---
 
