@@ -187,13 +187,59 @@ Es una excelente manera de aprender.
 
 ---
 
-#### Construye tu propio `Emulador / Máquina Virtual`
-🔜 *Próximamente traducida.*
+#### Construye tu propio `Emulador / Máquina Virtual` ✅
+
+> Un **emulador** recrea en software el comportamiento de un hardware real (como una consola o CPU). Una **máquina virtual** ejecuta código en un entorno aislado simulando un procesador propio. El CHIP-8 es el punto de entrada clásico para aprender emulación: solo tiene 35 instrucciones y 4KB de RAM.
+
+**Recursos en inglés (títulos traducidos):**
+
+* [**C**: _Intérpretes de bytecode hechos en casa_](https://medium.com/bumble-tech/home-grown-bytecode-interpreters-51e12d59b25c)
+* [**C**: _Máquina virtual en C_](http://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/)
+* [**C**: _Escribe tu propia Máquina Virtual_](https://justinmeiners.github.io/lc3-vm/)
+* [**C**: _Escribiendo un emulador de Game Boy: Cinoop_](https://cturt.github.io/cinoop.html)
+* [**C++**: _Cómo escribir un emulador (intérprete CHIP-8)_](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+* [**C++**: _Tutorial de emulación (intérprete CHIP-8)_](http://www.codeslinger.co.uk/pages/projects/chip8.html)
+* [**C++**: _Tutorial de emulación (emulador de GameBoy)_](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
+* [**C++**: _Tutorial de emulación (emulador de Master System)_](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
+* [**C++**: _Emulador de NES desde cero_](https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf) [video]
+* [**Common Lisp**: _CHIP-8 en Common Lisp_](http://stevelosh.com/blog/2016/12/chip8-cpu/)
+* [**JavaScript**: _Emulación de GameBoy en JavaScript_](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
+* [**Python**: _Fundamentos de emulación: Escribe tu propio emulador/intérprete CHIP-8_](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
+* [**Rust**: _0dmg: Aprendiendo Rust construyendo un emulador parcial de Game Boy_](https://jeremybanks.github.io/0dmg/)
+
+**🇪🇸 Recursos en español:**
+
+* 🇪🇸 [**C++ / Emulación**: _Construyendo un emulador CHIP-8_ — Makigas (serie completa en YouTube)](https://makigas.es/series/construyendo-un-emulador-chip-8)
 
 ---
 
-#### Construye tu propio `Framework / Librería Frontend`
-🔜 *Próximamente traducida.*
+#### Construye tu propio `Framework / Librería Frontend` ✅
+
+> Un **framework frontend** como React, Vue o Angular no es magia: es código JavaScript que gestiona el DOM, el estado y la reactividad. En esta sección aprenderás a construir tus propias versiones de React, Redux y el DOM Virtual desde cero, entendiendo por qué estas herramientas funcionan como funcionan.
+
+**Recursos en inglés (títulos traducidos):**
+
+* [**JavaScript**: _¿Qué es JSX? (Construyamos un renderizador JSX)_](https://jasonformat.com/wtf-is-jsx/)
+* [**JavaScript**: _Guía DIY para construir tu propio React_](https://github.com/hexacta/didact)
+* [**JavaScript**: _Construyendo React desde cero_](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
+* [**JavaScript**: _Gooact: React en 160 líneas de JavaScript_](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
+* [**JavaScript**: _Aprende cómo funciona el Reconciliador de React construyendo tu propio React DOM ligero_](https://hackernoon.com/learn-you-some-custom-react-renderers-aed7164a4199)
+* [**JavaScript**: _Construye tu propio Redux_](https://zapier.com/engineering/how-to-build-redux/)
+* [**JavaScript**: _¡Escribamos Redux!_](https://www.jamasoftware.com/blog/lets-write-redux/)
+* [**JavaScript**: _Redux: Implementando el Store desde cero_](https://egghead.io/lessons/react-redux-implementing-store-from-scratch) [video]
+* [**JavaScript**: _Construye tu propio AngularJS simplificado en 200 líneas de JavaScript_](https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
+* [**JavaScript**: _Crea tu propio AngularJS_](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
+* [**JavaScript**: _Cómo escribir tu propio DOM Virtual_](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
+* [**JavaScript**: _Construyendo un framework frontend desde cero con componentes (plantillas, estado, VDOM)_](https://mfrachet.github.io/create-frontend-framework/)
+* [**JavaScript**: _Construye tu propio React_](https://pomb.us/build-your-own-react/)
+* [**JavaScript**: _Construyendo un renderizador React personalizado_](https://youtu.be/CGpMlWVcHok) [video]
+
+**🇪🇸 Recursos en español:**
+
+> ⚠️ No encontramos tutoriales en español sobre **implementar un framework frontend desde cero**. Los recursos existentes enseñan a *usar* React/Vue, que es diferente a construirlos.
+> **¿Conoces uno? ¡Abre un [Pull Request](../../pulls)!**
+
+* 🇪🇸 [**React**: _Aprende React desde cero — FreeCodeCamp Español_ (base sólida para entender cómo funciona React internamente)](https://www.freecodecamp.org/espanol/news/aprende-react-desde-cero-curso-de-react-con-proyectos/)
 
 ---
 
