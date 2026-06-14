@@ -300,8 +300,60 @@ Es una excelente manera de aprender.
 
 ---
 
-#### Construye tu propio `Lenguaje de Programación`
-🔜 *Próximamente traducida.*
+#### Construye tu propio `Lenguaje de Programación` ✅
+
+> Crear un **lenguaje de programación** implica construir al menos tres piezas: un **lexer** (que convierte texto en tokens), un **parser** (que genera un árbol sintáctico AST) y un **evaluador o compilador** (que ejecuta o traduce ese árbol). Es uno de los proyectos más formativos que puede hacer un programador.
+
+**Recursos en inglés (títulos traducidos):**
+
+* [**(cualquier lenguaje)**: _mal — Haz un Lisp_](https://github.com/kanaka/mal#mal---make-a-lisp)
+* [**Assembly**: _Jonesforth_](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
+* [**C**: _El primer recolector de basura_](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+* [**C**: _Construye tu propio Lisp: Aprende C y crea tu propio lenguaje en 1000 líneas_](http://www.buildyourownlisp.com/)
+* [**C**: _Escribiendo un recolector de basura simple en C_](http://maplant.com/gc.html)
+* [**C**: _Intérprete de C que se interpreta a sí mismo_](https://github.com/lotabout/write-a-C-interpreter)
+* [**C**: _Versión en C y x86 de "Construyamos un compilador" de Jack Crenshaw_](https://github.com/lotabout/Let-s-build-a-compiler)
+* [**C**: _Un viaje explicando cómo construir un compilador desde cero_](https://github.com/DoctorWkt/acwj)
+* [**C++**: _Escribiendo tu propio compilador de juguete usando Flex_](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
+* [**C++**: _Cómo crear un compilador_](https://www.youtube.com/watch?v=eF9qWbuQLuw) [video]
+* [**C++**: _Kaleidoscope: Implementando un lenguaje con LLVM_](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
+* [**F#**: _Entendiendo los combinadores de parsers_](https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/)
+* [**Elixir**: _Desmitificando los compiladores escribiendo el tuyo propio_](https://www.youtube.com/watch?v=zMJYoYwOCd4) [video]
+* [**Go**: _El Super Compilador Minúsculo_](https://github.com/hazbo/the-super-tiny-compiler)
+* [**Go**: _Análisis léxico en Go_](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
+* [**Haskell**: _Construyamos un compilador_](https://g-ford.github.io/cradle/)
+* [**Haskell**: _Escríbete un Haskell_](http://dev.stephendiehl.com/fun/)
+* [**Haskell**: _Escríbete un Scheme en 48 horas_](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+* [**Haskell**: _Escríbete un Scheme_](https://www.wespiser.com/writings/wyas/home.html)
+* [**Java**: _Diseñando intérpretes: Manual para crear lenguajes de programación_](http://www.craftinginterpreters.com/)
+* [**Java**: _Creando un lenguaje para la JVM_](http://jakubdziworski.github.io/categories.html#Enkel-ref)
+* [**JavaScript**: _El Super Compilador Minúsculo_](https://github.com/jamiebuilds/the-super-tiny-compiler)
+* [**JavaScript**: _El Super Intérprete Minúsculo_](https://github.com/keyanzhang/the-super-tiny-interpreter)
+* [**JavaScript**: _Pequeño intérprete Lisp_](https://maryrosecook.com/blog/post/little-lisp-interpreter)
+* [**JavaScript**: _Cómo implementar un lenguaje de programación en JavaScript_](http://lisperator.net/pltut/)
+* [**JavaScript**: _Vamos a escribir un Lisp_](https://idiocy.org/lets-go-write-a-lisp/part-1.html)
+* [**OCaml**: _Escribiendo un compilador de C_](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+* [**OCaml**: _Escribiendo un Lisp, la serie_](https://bernsteinbear.com/blog/lisp/)
+* [**Pascal**: _Construyamos un compilador_](https://compilers.iecc.com/crenshaw/)
+* [**Python**: _Un intérprete de Python escrito en Python_](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+* [**Python**: _lisp.py: Crea tu propio intérprete Lisp_](http://khamidou.com/compilers/lisp.py/)
+* [**Python**: _Cómo escribir un intérprete Lisp en Python_](http://norvig.com/lispy.html)
+* [**Python**: _Construyamos un intérprete simple_](https://ruslanspivak.com/lsbasi-part1/)
+* [**Python**: _Crea tu propio lenguaje de programación interpretado simple_](https://www.youtube.com/watch?v=dj9CBS3ikGA&list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD&index=1) [video]
+* [**Python**: _Del código fuente al código máquina: Construye tu propio compilador desde cero_](https://build-your-own.org/compiler/)
+* [**Racket**: _Beautiful Racket: Cómo crear tus propios lenguajes de programación con Racket_](https://beautifulracket.com/)
+* [**Ruby**: _Un compilador desde cero_](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch)
+* [**Ruby**: _Compilador de Markdown desde cero en Ruby_](https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/)
+* [**Rust**: _Aprendiendo combinadores de parsers con Rust_](https://bodil.lol/parser-combinators/)
+* [**Swift**: _Construyendo un LISP desde cero con Swift_](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
+* [**TypeScript**: _Construye tu propio compilador de WebAssembly_](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+
+**🇪🇸 Recursos en español:**
+
+* 🇪🇸 [**Python**: _Cómo crear un lenguaje de programación propio — Platzi Blog_](https://platzi.com/blog/crear-lenguaje-programacion/) *(introducción accesible a lexer, parser y evaluador)*
+* 🇪🇸 [**Python**: _Curso: Creación de Lenguajes de Programación: Intérpretes — Platzi_](https://platzi.com/cursos/interpretes-software/) *(curso completo: lexer → parser → AST → evaluador → REPL)*
+* 🇪🇸 [**JavaScript**: _Sé el compilador: haz un compilador con JavaScript — Medium_](https://medium.com/@rodkings/s%C3%A9-el-compilador-haz-un-compilador-con-javascript-b64458d0298e)
+* 🇪🇸 [**Pascal/General**: _Crea tu propio compilador — Blog de Tito Hinostroza_ (serie en español)](https://blogdetito.com/2019/01/05/crea-tu-propio-compilador-casero-parte-1/)
 
 ---
 
