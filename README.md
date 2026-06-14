@@ -134,8 +134,33 @@ Es una excelente manera de aprender.
 
 ---
 
-#### Construye tu propia `Base de Datos`
-🔜 *Próximamente traducida.*
+#### Construye tu propia `Base de Datos` ✅
+
+> Una **base de datos** es el sistema que persiste, organiza y recupera información de forma eficiente. SQLite, Redis y PostgreSQL son ejemplos. En esta sección aprenderás a construir los mecanismos internos de una base de datos desde cero: árboles B+, tablas hash, motores de almacenamiento y más.
+
+**Recursos en inglés (títulos traducidos):**
+
+* [**C**: _Construyamos una Base de Datos Simple_](https://cstack.github.io/db_tutorial/)
+* [**C++**: _Construye tu propio Redis desde cero_](https://build-your-own.org/redis)
+* [**C#**: _Construye tu propia Base de Datos_](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
+* [**Clojure**: _Una Base de Datos inspirada en la Arqueología_](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
+* [**Crystal**: _Por qué deberías construir tu propia base de datos NoSQL_](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
+* [**Go**: _Construye tu propia base de datos desde cero: de B+Tree a SQL en 3000 líneas_](https://build-your-own.org/database/)
+* [**Go**: _Codifica una base de datos en 45 pasos: puzzles de código con TDD_](https://trialofcode.org/database/)
+* [**Go**: _Construye tu propio Redis desde cero_](https://www.build-redis-from-scratch.dev/)
+* [**JavaScript**: _Dagoba: una base de datos de grafos en memoria_](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
+* [**Python**: _DBDB: La Base de Datos de la Cama del Perro_](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
+* [**Python**: _Escribe tu propio Redis en miniatura con Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
+* [**Ruby**: _Construye tu propio almacén clave-valor rápido y persistente en Ruby_](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/)
+* [**Rust**: _Construye tu propio cliente y servidor Redis_](https://tokio.rs/tokio/tutorial/setup)
+
+**🇪🇸 Recursos en español:**
+
+> ⚠️ Actualmente no encontramos tutoriales en español sobre **implementar el motor de una base de datos desde cero**. Los recursos existentes tratan sobre *usar* bases de datos (SQL, SQLite, Redis), que es un tema diferente.
+> **¿Conoces uno? ¡Abre un [Pull Request](../../pulls) y lo añadimos aquí!** Esta es exactamente la brecha que este repositorio busca llenar.
+
+* 🇪🇸 [**Fundamentos**: _Curso de Bases de Datos — FreeCodeCamp Español_ (cómo funcionan por dentro)](https://www.freecodecamp.org/espanol/learn/relational-database/)
+* 🇪🇸 [**Redis**: _Redis desde cero: Introducción a la base de datos en memoria — Medium_](https://medium.com/@diego.coder/introducci%C3%B3n-a-redis-bdcdccbf596e)
 
 ---
 
