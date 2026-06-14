@@ -79,8 +79,34 @@ Es una excelente manera de aprender.
 
 ---
 
-#### Construye tu propio `Bot`
-🔜 *Próximamente traducida.*
+#### Construye tu propio `Bot` ✅
+
+> Un **bot** es un programa que interactúa automáticamente con plataformas como Telegram, Discord, Slack o Reddit, respondiendo mensajes, ejecutando comandos o realizando tareas sin intervención humana. En esta sección aprenderás a construir el tuyo desde cero.
+
+**Recursos en inglés (títulos traducidos):**
+
+* [**Haskell**: _Crea tu propio bot de IRC_](https://wiki.haskell.org/Roll_your_own_IRC_bot)
+* [**Node.js**: _Creando un bot de IA para Facebook Messenger con API.ai en Node.js_](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
+* [**Node.js**: _Cómo crear un bot de Telegram responsivo_](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
+* [**Node.js**: _Crea un bot de Discord_ (guía oficial de Discord.js)](https://discordjs.guide/)
+* [**Node.js**: _gifbot — Construyendo una GitHub App_](https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html)
+* [**Node.js**: _Construyendo un chatbot de IA simple con Web Speech API y Node.js_](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)
+* [**Python**: _Cómo construir tu primer Slack Bot con Python_](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
+* [**Python**: _Cómo construir un Slack Bot con Python, Slack Events API y Django en menos de 20 minutos_](https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e)
+* [**Python**: _Construye un bot de Reddit_](https://pythonforengineers.com/blog/build-a-reddit-bot-part-1/)
+* [**Python**: _Cómo hacer un bot de Reddit_](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
+* [**Python**: _Cómo crear un bot de Telegram con Python_](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
+* [**Python**: _Crea un bot de Twitter en Python usando Tweepy_](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
+* [**Python**: _Creando un bot de Reddit con Python y PRAW_](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
+* [**R**: _Construye un bot de trading de criptomonedas con R_](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
+* [**Rust**: _Un bot para Starcraft en Rust, C o cualquier otro lenguaje_](https://habr.com/en/post/436254/)
+
+**🇪🇸 Recursos en español:**
+
+* 🇪🇸 [**Python**: _Cómo hacer un bot de Telegram en Python — El Pythonista_ (2026, incluye deploy y OpenAI)](https://elpythonista.com/bot-telegram-python)
+* 🇪🇸 [**Python**: _Cómo crear tu propio bot de Telegram con Python — Platzi Blog_](https://platzi.com/blog/bot-python/)
+* 🇪🇸 [**Node.js**: _Tutorial: Bot de Discord con JavaScript/Node.js — FreeCodeCamp Español_](https://www.freecodecamp.org/espanol/news/crea-un-bot-de-discord-con-javascript-nodejs/)
+* 🇪🇸 [**Node.js**: _Cómo crear un bot de Discord con Node.js — DigitalOcean (en español)_](https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js-es)
 
 ---
 
