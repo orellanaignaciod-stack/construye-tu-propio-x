@@ -84,8 +84,27 @@ Es una excelente manera de aprender.
 
 ---
 
-#### Construye tu propia `Herramienta de Línea de Comandos`
-🔜 *Próximamente traducida.*
+#### Construye tu propia `Herramienta de Línea de Comandos` ✅
+
+> Una **herramienta de línea de comandos** (CLI, por sus siglas en inglés) es un programa que se controla exclusivamente desde la terminal, sin interfaz gráfica. Son la base del trabajo diario de cualquier desarrollador: `git`, `npm`, `curl` y `grep` son ejemplos. En esta sección aprenderás a construir la tuya desde cero.
+
+**Recursos en inglés (títulos traducidos):**
+
+* [**Go**: _Visualiza tus contribuciones locales de git con Go_](https://flaviocopes.com/go-git-contributions/)
+* [**Go**: _Construye una app de línea de comandos con Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
+* [**Go**: _Construyendo un comando CLI con Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
+* [**Go**: _Tutorial CLI en Go: clon de fortune_](https://flaviocopes.com/go-tutorial-fortune/)
+* [**Nim**: _Escribe una alternativa a stow para gestionar dotfiles_](https://xmonader.github.io/nimdays/day06_nistow.html)
+* [**Node.js**: _Crea una herramienta CLI en JavaScript_](https://citw.dev/tutorial/create-your-own-cli-tool)
+* [**Rust**: _Aplicaciones de línea de comandos en Rust_ (libro oficial)](https://rust-cli.github.io/book/index.html)
+* [**Rust**: _Escribiendo una herramienta de línea de comandos en Rust_](https://mattgathu.dev/2017/08/29/writing-cli-app-rust.html)
+* [**Zig**: _Construye tu propia app CLI en Zig desde cero_](https://rebuild-x.github.io/docs/#/./zig/terminal/cli)
+
+**🇪🇸 Recursos en español:**
+
+* 🇪🇸 [**Node.js**: _Cómo crear una aplicación CRUD de línea de comandos con Node.js_ — FreeCodeCamp Español](https://www.freecodecamp.org/espanol/news/como-crear-una-aplicacion-crud-de-linea-de-comandos-con-node-js/)
+* 🇪🇸 [**Node.js**: _Creando nuestro propio CLI con Node.js_ — JSCamp](https://www.jscamp.dev/backend-con-nodejs-y-express/creando-nuestro-propio-cli)
+* 🇪🇸 [**Rust**: _Aplicaciones de línea de comandos — Rust-lang.org (sitio oficial en español)_](https://www.rust-lang.org/es/what/cli/)
 
 ---
 
